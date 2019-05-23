@@ -55,7 +55,7 @@ public class MyGdxGame extends ApplicationAdapter {
 		if (bird.posit.y < 0 || bird.posit.y > 600) {    // ПТИЦА ПРОИГРЫВЕТ
 			gameOver = true;
 		}
-		if(Gdx.input.isKeyPressed(Input.Keys.ENTER)&& gameOver){   // С ПОМОЩИ КЛАВИШИ "enter" ПОСЛЕ ПРОИШРЫША ПЕРЕЗАПУСКАЕТСЯ
+		if(Gdx.input.isKeyPressed(Input.Keys.ENTER)&& gameOver){   // С ПОМОЩЬЮ КЛАВИШИ "enter" ПОСЛЕ ПРОИШРЫША ПЕРЕЗАПУСКАЕТСЯ
 			recreate();
 		}
 	}
