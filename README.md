@@ -1,13 +1,13 @@
 # Bird
 
-Title of the Project: Bird
+## Final project (Java)
 
-Topic addressed by the project: Game
+### What I use in this project
 
-Background: Java
+* Idea Intellij
 
-Aim of the project (what): Overcome obstacles
+* LibGDX 
 
-Objectives of the project (why): Beat friends record
+* Gradle
 
-Expected outcomes: For fun
+* Github
