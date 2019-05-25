@@ -12,4 +12,6 @@
 
 * Github
 
+### DesktopLauncher (main class)
+
 ![](main.png)
